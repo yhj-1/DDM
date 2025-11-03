@@ -42,7 +42,7 @@ conda install -c pytorch pytorch torchvision
 3. Install Mamba needed packages
 
 ```sh
-
+cd selective_scan && pip install . && cd ..
 ```
 
 4. Install other needed packages
@@ -122,6 +122,7 @@ You can refer to [Deformable-DETR](https://github.com/fundamentalvision/Deformab
 * mmdet: for swin backbones
 * mmcv: for swin backbones
 * timm: for swin backbones
+
 
 
 
