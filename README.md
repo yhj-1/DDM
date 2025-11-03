@@ -11,24 +11,16 @@ Authors:  Wenping Ma, Senior Member, IEEE, **Zhenyu Hu**, Hao Zhu, Member, IEEE,
 
 We provide a set of baseline results and trained models available for download:
 
-
 ### Models with Swin Transformer backbones
 
-<table><tbody>
-<!-- START TABLE -->
-<!-- TABLE HEADER -->
-<th valign="bottom">Name</th>
-<th valign="bottom">query</th>
-<th valign="bottom">epochs</th>
-<th valign="bottom">download</th>
-<!-- TABLE BODY -->
-</tr>
- <tr><td align="left"><a href="configs/two_stage/deformable-detr-baseline/36eps/swin/swin_tiny_dp0_mqs_lft_deformable_detr_plus_iterative_bbox_refinement_plus_plus_two_stage.sh">DDM-DETR</a></td>
-<td align="center">300</td>
-<td align="center">36</td>
-<td align="center"><a href="https://github.com/yhj-1/DDM/releases/download/v1.0.0/DDM-DETR_swin_tiny_two_stage_36.pth">model</a></td>
-</tr>
+
+
+DDM-DETR pretrained_weights: [model](https://github.com/yhj-1/DDM/releases/download/v1.0.0/DDM-DETR_swin_tiny_two_stage_36.pth)
+
+
+
 ## Installation
+
 We test our models under ```python=3.10.8,pytorch=2.1.2,cuda=11.8```. Other versions might be available as well.
 
 1. Clone this repo
