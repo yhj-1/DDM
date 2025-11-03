@@ -28,10 +28,6 @@ We provide a set of baseline results and trained models available for download:
 <td align="center">36</td>
 <td align="center"><a href="https://github.com/yhj-1/DDM/releases/download/v1.0.0/DDM-DETR_swin_tiny_two_stage_36.pth">model</a></td>
 </tr>
-
-
-
-
 ## Installation
 We test our models under ```python=3.10.8,pytorch=2.1.2,cuda=11.8```. Other versions might be available as well.
 
