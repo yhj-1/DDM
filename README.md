@@ -2,7 +2,7 @@
 
 The paper is currently under submission： "D2M-DETR: Differential Decoupling and Multi-scale Dynamic Modeling for Remote Sensing Small Object Detection". 
 
-Authors:  Wenping Ma, Senior Member, IEEE, **Zhenyu Hu**, Hao Zhu, Member, IEEE, Xuqiang Lv, Weiwei Hou, and Mengru Ma, Member, IEEE
+Authors:  Wenping Ma(Senior Member, IEEE) **Zhenyu Hu**, Hao Zhu(Member, IEEE) Xuqiang Lv, Weiwei Hou, and Mengru Ma, Member, IEEE
 
 ![2](./image/2.jpg)
 
@@ -122,6 +122,7 @@ You can refer to [Deformable-DETR](https://github.com/fundamentalvision/Deformab
 * mmdet: for swin backbones
 * mmcv: for swin backbones
 * timm: for swin backbones
+
 
 
 
