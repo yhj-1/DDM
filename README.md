@@ -4,6 +4,8 @@ The paper is currently under submission： "D2M-DETR: Differential Decoupling an
 
 Authors:  Wenping Ma, Senior Member, IEEE, **Zhenyu Hu**, Hao Zhu, Member, IEEE, Xuqiang Lv, Weiwei Hou, and Mengru Ma, Member, IEEE
 
+![2](https:\github.com\yhj-1\DDM\blob\main\image\2.jpg)
+
 ## News
 
 
@@ -120,6 +122,7 @@ You can refer to [Deformable-DETR](https://github.com/fundamentalvision/Deformab
 * mmdet: for swin backbones
 * mmcv: for swin backbones
 * timm: for swin backbones
+
 
 
 
