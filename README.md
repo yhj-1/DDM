@@ -13,7 +13,7 @@ Authors:  Wenping Ma(Senior Member, IEEE) **Zhenyu Hu**, Hao Zhu(Member, IEEE), 
 
 We provide a set of baseline results and trained models available for download:
 
-### Models with Swin Transformer backbones
+### Models pretrained_weights backbones
 
 
 
@@ -76,6 +76,13 @@ coco_path/
   	└── instances_val2017.json
 ```
 ## Run
+### To train a model using 1 cards
+
+```Bash
+GPUS_PER_NODE=1 <config path> \
+    --coco_path <coco path>
+```
+
 ### To train a model using 8 cards
 
 ```Bash
@@ -122,6 +129,7 @@ You can refer to [Deformable-DETR](https://github.com/fundamentalvision/Deformab
 * mmdet: for swin backbones
 * mmcv: for swin backbones
 * timm: for swin backbones
+
 
 
 
