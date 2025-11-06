@@ -27,7 +27,7 @@ We test our models under ```python=3.10.8,pytorch=2.1.2,cuda=11.8```. Other vers
 
 1. Clone this repo
 ```sh
-git https://github.com/yhj-1/DDM.git
+git clone https://github.com/yhj-1/DDM.git
 cd DDM
 ```
 
@@ -129,6 +129,7 @@ You can refer to [Deformable-DETR](https://github.com/fundamentalvision/Deformab
 * mmdet: for swin backbones
 * mmcv: for swin backbones
 * timm: for swin backbones
+
 
 
 
